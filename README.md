@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to my GitHub! 👋</h1>
+<h1 align="center">Bem-vindo(a) ao meu GitHub! 👋</h1>
 
-## 📌 About me
-- 🇧🇷 I'm from Brazil  
-- 💻 Currently studying Web Development (React, Node.js, TypeScript)  
-- 🎯 Focused on creating modern, fast, and user-friendly applications  
-- 🚀 Always learning and improving my skills
+## 📌 Sobre mim
+- 🇧🇷 Sou do Brasil  
+- 💻 Atualmente estudando Desenvolvimento Web (React, Node.js, TypeScript)  
+- 🎯 Focado em criar aplicações modernas, rápidas e intuitivas  
+- 🚀 Sempre aprendendo e melhorando minhas habilidades
 
 ---
 
@@ -17,7 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
-**Version Control & Deployment**  
+**Controle de Versão & Deploy**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
@@ -27,16 +27,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas no GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LH5818181&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LH5818181&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://linkedin.com/in/seu-link](https://www.linkedin.com/in/luis-henrique-76245231a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luis-henrique-76245231a/)
 
 ---
 
