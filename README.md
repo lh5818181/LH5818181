@@ -2,7 +2,7 @@
 
 ## 📌 Sobre mim
 - 🇧🇷 Sou do Brasil  
-- 💻 Atualmente estudando Desenvolvimento Web (React, Node.js, TypeScript)  
+- 💻 Atualmente estudando Desenvolvimento Fullstack - Javascript
 - 🎯 Focado em criar aplicações modernas, rápidas e intuitivas  
 - 🚀 Sempre aprendendo e melhorando minhas habilidades
 
