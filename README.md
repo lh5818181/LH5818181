@@ -5,8 +5,7 @@
 </p>
 
 ## 📌 Sobre mim
-- 📍 Baseado em Recife - PE
-- 👨‍💻 Atualmente contribuindo como **Desenvolvedor Front-End Voluntário** na **Lacrei Saúde**
+- 📍 Recife - PE
 - 🎓 Formado em **Desenvolvimento Full Stack Javascript** pela EBAC
 - 🚀 Focado em escrever código limpo, testável e escalável, com forte domínio de **React, TypeScript e Metodologias Ágeis**
 - 🧠 Constantemente me aprimorando em **Java, Spring Boot e Engenharia de Prompt**
