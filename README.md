@@ -50,11 +50,15 @@ Template focado em **SEO (Core Web Vitals)** e acessibilidade **WCAG 2.1**, util
 
 ---
 
-## 📊 Estatísticas
+## 📊 Minhas Atividades no GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LH5818181&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LH5818181&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LH5818181&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LH5818181&theme=tokyonight" alt="Streak do GitHub" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LH5818181&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
