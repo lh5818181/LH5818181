@@ -5,10 +5,31 @@
 </p>
 
 ## 📌 Sobre mim
-- 📍 Recife - PE
-- 🎓 Formado em **Desenvolvimento Full Stack Javascript** pela EBAC
-- 🚀 Focado em escrever código limpo, testável e escalável, com forte domínio de **React, TypeScript e Metodologias Ágeis**
-- 🧠 Constantemente me aprimorando em **Java, Spring Boot e Engenharia de Prompt**
+
+- 📍 Recife - PE  
+- 🎓 Desenvolvedor Full Stack formado pela EBAC  
+- 🚀 Experiência prática em ambientes reais com React, TypeScript e integração com APIs  
+- 🧠 Forte atuação em correção de bugs críticos, refatoração de contextos e estabilização de sistemas  
+- 🔍 Foco em arquitetura limpa, acessibilidade (WCAG) e escalabilidade  
+
+---
+
+## 🧠 Experiência Real em Produção
+
+### 🏥 Lacrei Saúde — Atuação em Sistemas com Usuários Reais
+
+Durante minha atuação como desenvolvedor Front-end, participei ativamente da evolução das jornadas de Pessoa Usuária e Pessoa Profissional.
+
+Principais entregas:
+
+- Refatoração de AuthContext e ProfileContext
+- Implementação de fluxos completos de Login, Pré-cadastro e Recuperação de Senha
+- Tratamento robusto de erros HTTP (401, 409, 422, 500)
+- Correção de falhas silenciosas em cadastro
+- Blindagem contra crashes com optional chaining e validações seguras
+- Mock estratégico para contornar falhas temporárias de API
+- Atualização e manutenção do Design System Marsha
+- Validação em ambientes Preview, Staging e Produção com QA
 
 ---
 
@@ -50,19 +71,37 @@ Template focado em **SEO (Core Web Vitals)** e acessibilidade **WCAG 2.1**, util
 
 ---
 
+## 🏗️ Arquitetura & Decisões Técnicas
+
+- Centralização de autenticação via camada de serviço (authService)
+- Separação de regras de negócio em helpers puros
+- Implementação de validações robustas com React Hook Form + Zod
+- Padronização de tratamento de erros da API com tipagem segura
+- Estrutura modular baseada em componentes reutilizáveis
+- Versionamento de Design System com changesets
+- Estratégias de fallback e mock para manter estabilidade mesmo com API instável
+
+---
+
+## 📊 Impacto Real
+
+- Eliminação de falhas silenciosas no cadastro de usuários
+- Correção de bloqueios indevidos por erro 409
+- Redução de crashes por acesso a propriedades undefined
+- Melhoria na experiência do usuário com mensagens de erro claras
+- Garantia de navegação segura sem logout forçado em rotas inválidas
+- Estabilização de testes unitários no pacote do Design System
+
 ## 💼 Experiência Profissional
 
-### 🏥 [Lacrei Saúde](https://lacreisaude.com.br/) | Desenvolvedor Front-end (Voluntário)
-**Outubro de 2025 – Março de 2026** 
+### 🏥 Lacrei Saúde | Desenvolvedor Front-end (Voluntário)
+Out/2025 – Mar/2026
 
-Atuei no desenvolvimento de interfaces inclusivas e acessíveis, focando na conexão entre a comunidade LGBTQIAPN+ e profissionais de saúde qualificados
-
-**Desenvolvimento:** Criação de interfaces responsivas e performáticas utilizando **React** e **TypeScript**.
-**Design System & Documentação:** Desenvolvimento de componentes reutilizáveis e escaláveis com documentação interativa no **Storybook**.
-**Qualidade e Testes:** Implementação de testes unitários com **Jest**, garantindo a estabilidade das entregas e a confiabilidade do código.
-**Consumo de APIs:** Integração eficiente de **APIs REST/JSON** para o gerenciamento de dados dinâmicos na plataforma.
-**Acessibilidade (WCAG):** Aplicação de padrões internacionais de acessibilidade para garantir uma navegação fluida e inclusiva.
-**Metodologias Ágeis:** Colaboração ativa em rituais de **Scrum e Kanban**, utilizando **Notion** para gestão de tarefas e **Figma** para fidelidade visual.
+- Desenvolvimento de interfaces com React e TypeScript
+- Integração com APIs REST
+- Manutenção e evolução do Design System
+- Implementação de testes unitários
+- Atuação em rituais ágeis (Scrum/Kanban)
 
 ---
 
