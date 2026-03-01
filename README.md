@@ -57,7 +57,7 @@ Template focado em **SEO (Core Web Vitals)** e acessibilidade **WCAG 2.1**, util
 
 Atuei no desenvolvimento de interfaces inclusivas e acessíveis, focando na conexão entre a comunidade LGBTQIAPN+ e profissionais de saúde qualificados
 
-**Desenvolvimento Core:** Criação de interfaces responsivas e performáticas utilizando **React 18** e **TypeScript**.
+**Desenvolvimento:** Criação de interfaces responsivas e performáticas utilizando **React** e **TypeScript**.
 **Design System & Documentação:** Desenvolvimento de componentes reutilizáveis e escaláveis com documentação interativa no **Storybook**.
 **Qualidade e Testes:** Implementação de testes unitários com **Jest**, garantindo a estabilidade das entregas e a confiabilidade do código.
 **Consumo de APIs:** Integração eficiente de **APIs REST/JSON** para o gerenciamento de dados dinâmicos na plataforma.
