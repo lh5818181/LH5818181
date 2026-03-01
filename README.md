@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Luis Henrique! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack Júnior | React.js & TypeScript | Entusiasta de Java e Spring Boot</strong>
+  <strong>Desenvolvedor Full Stack Júnior</strong>
 </p>
 
 ## 📌 Sobre mim
