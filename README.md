@@ -50,6 +50,22 @@ Template focado em **SEO (Core Web Vitals)** e acessibilidade **WCAG 2.1**, util
 
 ---
 
+## 💼 Experiência Profissional
+
+### 🏥 [Lacrei Saúde](https://lacreisaude.com.br/) | Desenvolvedor Front-end (Voluntário)
+**Outubro de 2025 – Março de 2026** 
+
+Atuei no desenvolvimento de interfaces inclusivas e acessíveis, focando na conexão entre a comunidade LGBTQIAPN+ e profissionais de saúde qualificados
+
+* [cite_start]**Desenvolvimento Core:** Criação de interfaces responsivas e performáticas utilizando **React 18** e **TypeScript**.
+* [cite_start]**Design System & Documentação:** Desenvolvimento de componentes reutilizáveis e escaláveis com documentação interativa no **Storybook**.
+* [cite_start]**Qualidade e Testes:** Implementação de testes unitários com **Jest**, garantindo a estabilidade das entregas e a confiabilidade do código.
+* [cite_start]**Consumo de APIs:** Integração eficiente de **APIs REST/JSON** para o gerenciamento de dados dinâmicos na plataforma.
+* [cite_start]**Acessibilidade (WCAG):** Aplicação de padrões internacionais de acessibilidade para garantir uma navegação fluida e inclusiva.
+* [cite_start]**Metodologias Ágeis:** Colaboração ativa em rituais de **Scrum e Kanban**, utilizando **Notion** para gestão de tarefas e **Figma** para fidelidade visual.
+
+---
+
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luis-henrique-76245231a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lh5818181@gmail.com)
