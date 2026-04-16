@@ -93,17 +93,6 @@ Template focado em **SEO (Core Web Vitals)** e acessibilidade **WCAG 2.1**, util
 - Estabilização de testes unitários no pacote do Design System
 - Auditoria de tokens de Design System (Typography) garantindo 100% de consistência com o Figma.
 
-## 💼 Experiência Profissional
-
-### 🏥 Lacrei Saúde | Desenvolvedor Front-end (Voluntário)
-Out/2025 – Mar/2026
-
-- Desenvolvimento de interfaces com React e TypeScript
-- Integração com APIs REST
-- Manutenção e evolução do Design System
-- Implementação de testes unitários
-- Atuação em rituais ágeis (Scrum/Kanban)
-
 ---
 
 ## 🌐 Conecte-se comigo
