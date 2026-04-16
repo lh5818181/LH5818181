@@ -7,7 +7,8 @@
 ## 📌 Sobre mim
 
 - 📍 Recife - PE  
-- 🎓 Desenvolvedor Full Stack formado pela EBAC  
+- 🎓 Desenvolvedor Full Stack formado pela EBAC
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas — Estácio (2026)  
 - 🚀 Experiência prática em ambientes reais com React, TypeScript e integração com APIs  
 - 🧠 Forte atuação em correção de bugs críticos, refatoração de contextos e estabilização de sistemas  
 - 🔍 Foco em arquitetura limpa, acessibilidade (WCAG) e escalabilidade  
@@ -59,14 +60,13 @@ Principais entregas:
 
 ## 🚀 Projetos em Destaque
 
-### 🌌 [Visualizador APOD](https://github.com/LH5818181/seu-repositorio-apod)
-Integração avançada das APIs da NASA e Spotify utilizando **React 18** e **Vite**.  
-Foco em performance com *debounce* e animações fluidas com **Framer Motion**.
+### 🌌 [Cyberfolio](https://github.com/lh5818181/Cyberfolio)
+Portfólio de alta performance com Atomic Design e entrega de mídia via Cloudinary CDN.
 
-### 🛠️ [GitHub Design System](https://github.com/LH5818181/seu-repositorio-ds)
+### 🛠️ [GitHub Design System](https://github.com/lh5818181/github-design-system)
 Biblioteca de componentes modulares baseada em **Atomic Design**, documentada com **Storybook** e com **100% de cobertura de testes** em Jest.
 
-### 📄 [Landing Page Template](https://github.com/LH5818181/seu-repositorio-lp)
+### 📄 [Landing Page Template](https://github.com/devhenriquejs/templateLP)
 Template focado em **SEO (Core Web Vitals)** e acessibilidade **WCAG 2.1**, utilizando React Hook Form e Zod para validações robustas.
 
 ---
@@ -91,6 +91,7 @@ Template focado em **SEO (Core Web Vitals)** e acessibilidade **WCAG 2.1**, util
 - Melhoria na experiência do usuário com mensagens de erro claras
 - Garantia de navegação segura sem logout forçado em rotas inválidas
 - Estabilização de testes unitários no pacote do Design System
+- Auditoria de tokens de Design System (Typography) garantindo 100% de consistência com o Figma.
 
 ## 💼 Experiência Profissional
 
